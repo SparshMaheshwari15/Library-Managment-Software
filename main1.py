@@ -90,15 +90,6 @@ class library:
         new_id=id[1]
         id.pop(new_id)
         print(f"Your are registred your id is {new_id}")'''
-
-        
-            
-
-
-        
-            
-            
-        
         #print(f"{n}2ND")
         #ID=set(ID)
     def Suggestion():
@@ -219,3 +210,6 @@ Choose any option
             exit()
         else:
             print("Invalid option")
+abcd=587
+print()
+
